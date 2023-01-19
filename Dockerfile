@@ -1,4 +1,4 @@
-FROM ferrarimarco/github-changelog-generator:1.15.0
+FROM githubchangeloggenerator/github-changelog-generator
 
 COPY entrypoint.sh /entrypoint.sh
 
