@@ -1,4 +1,4 @@
-FROM githubchangeloggenerator/github-changelog-generator
+FROM rarguello024/px-github-changelog-generator
 
 COPY entrypoint.sh /entrypoint.sh
 
